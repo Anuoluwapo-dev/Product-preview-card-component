@@ -150,25 +150,6 @@ button.cta img{
     }
 }
 
-.attribution {
-    width: 100%;
-    padding: -50px;
-    margin-bottom: -25em;
-    text-align: center;
-    font-size: .85rem;
-    text-shadow: rgba(255, 255, 255, .15);
-    display: flex;
-    justify-content: center;
-    gap: 0.3rem;
-    align-items: center;
-    position: absolute;
-    bottom: 0.6rem;
-  }
-  .attribution, a{
-    transition: .5s ease;
-    color: #111111;
-  }
-
 
 
 
