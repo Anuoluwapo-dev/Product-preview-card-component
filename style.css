@@ -145,13 +145,15 @@ button.cta img{
         font-size: 23px;
     }
     button.cta{
-        padding: px 0;
+        padding: 15px 0;
         font-size: 13px;
     }
 }
 
 .attribution {
     width: 100%;
+    padding: -50px;
+    margin-bottom: -50px;
     text-align: center;
     font-size: .85rem;
     text-shadow: rgba(255, 255, 255, .15);
